@@ -24,6 +24,7 @@ github_username:  geodynamicworldbuilder
 show_downloads: true
 show_excerpts: true
 
+repository: geodynamicworldbuilder/WorldBuilder
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
