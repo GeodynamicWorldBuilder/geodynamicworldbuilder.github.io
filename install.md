@@ -1,5 +1,5 @@
 ---
 layout: page
-title:  "Working on version 0.1.0"
+title:  "How to install the World Builder?"
 ---
 Todo
