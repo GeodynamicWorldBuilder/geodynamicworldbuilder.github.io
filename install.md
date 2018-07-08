@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title:  "Working on version 0.1.0"
 ---
 Todo
