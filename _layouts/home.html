@@ -9,6 +9,10 @@ layout: default
 
   {{ content }}
 
+  <h2 class="install-heading">{{ install.title | default "How to install the World Builder?" }} </h2>
+  
+  {{ install.content }}
+
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
