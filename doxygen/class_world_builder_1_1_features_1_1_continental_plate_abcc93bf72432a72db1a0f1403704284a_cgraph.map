@@ -1,0 +1,4 @@
+<map id="WorldBuilder::Features::ContinentalPlate::composition" name="WorldBuilder::Features::ContinentalPlate::composition">
+<area shape="rect" id="node2" href="$namespace_world_builder_1_1_utilities.html#aaaac13b8563408c45af0aa9d3c8c7dd4" title="WorldBuilder::Utilities\l::polygon_contains_point" alt="" coords="257,5,424,47"/>
+<area shape="rect" id="node3" href="$class_world_builder_1_1_utilities_1_1_natural_coordinate.html#af5d4faac0a171615676ee50a9b7386d7" title="WorldBuilder::Utilities\l::NaturalCoordinate::get\l_surface_coordinates" alt="" coords="260,71,421,127"/>
+</map>

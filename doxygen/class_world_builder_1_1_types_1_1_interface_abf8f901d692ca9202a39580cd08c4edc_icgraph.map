@@ -1,0 +1,7 @@
+<map id="WorldBuilder::Types::Interface::get_type" name="WorldBuilder::Types::Interface::get_type">
+<area shape="rect" id="node2" href="$class_world_builder_1_1_parameters.html#a5a85d066466e0db7fea08005d0b0946a" title="WorldBuilder::Parameters\l::load_entry" alt="" coords="193,21,364,62"/>
+<area shape="rect" id="node6" href="$class_world_builder_1_1_parameters.html#a6c8918e44b42c6ce263ec03b381be5a0" title="WorldBuilder::Parameters\l::set_entry" alt="" coords="193,86,364,127"/>
+<area shape="rect" id="node3" href="$class_world_builder_1_1_features_1_1_continental_plate.html#ad81a54a71d59b3f98f4cecd0d88ef7db" title="WorldBuilder::Features\l::ContinentalPlate::decare\l_entries" alt="" coords="412,5,585,61"/>
+<area shape="rect" id="node4" href="$class_world_builder_1_1_world.html#a2877064b621e38e5f5de7b250cbc1753" title="WorldBuilder::World\l::declare_and_parse" alt="" coords="429,86,568,127"/>
+<area shape="rect" id="node5" href="$class_world_builder_1_1_world.html#aaa85079490959423c8c5ec898b5d250f" title="WorldBuilder::World\l::World" alt="" coords="633,86,772,127"/>
+</map>

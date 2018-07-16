@@ -1,0 +1,10 @@
+<map id="WorldBuilder::Parameters::get_point" name="WorldBuilder::Parameters::get_point">
+<area shape="rect" id="node2" href="$class_world_builder_1_1_world.html#ad3f3974565da90856ce01151b89a7912" title="WorldBuilder::World\l::temperature" alt="" coords="224,99,363,140"/>
+<area shape="rect" id="node6" href="$class_world_builder_1_1_world.html#a16020447fe6e5841ca75e39fec3dce50" title="WorldBuilder::World\l::composition" alt="" coords="224,189,363,231"/>
+<area shape="rect" id="node3" href="$class_world_builder_1_1_world.html#a9f68c76b9a2a815d5d616b01d8e28148" title="WorldBuilder::World\l::temperature" alt="" coords="411,5,549,47"/>
+<area shape="rect" id="node4" href="$wrapper__c_8h.html#a1e060386322e5fcffb72f4c95bdc1bc6" title="temperature_2d" alt="" coords="424,71,536,98"/>
+<area shape="rect" id="node5" href="$wrapper__c_8h.html#a427909d2f4b0d3e5e47d81c583af7358" title="temperature_3d" alt="" coords="424,122,536,149"/>
+<area shape="rect" id="node7" href="$class_world_builder_1_1_world.html#a5ef7d82899bb42c98224cf809ea122e0" title="WorldBuilder::World\l::composition" alt="" coords="411,173,549,215"/>
+<area shape="rect" id="node8" href="$wrapper__c_8h.html#a435f95dfbd68998e47013e1357103972" title="composition_2d" alt="" coords="423,239,537,266"/>
+<area shape="rect" id="node9" href="$wrapper__c_8h.html#a6888b4c88d4b72d53dc8084358670097" title="composition_3d" alt="" coords="423,290,537,317"/>
+</map>

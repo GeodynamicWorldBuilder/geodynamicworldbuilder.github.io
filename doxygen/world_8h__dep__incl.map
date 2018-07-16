@@ -1,0 +1,12 @@
+<map id="include/world_builder/world.h" name="include/world_builder/world.h">
+<area shape="rect" id="node2" href="$world_8cc.html" title="source/world.cc" alt="" coords="5,295,120,322"/>
+<area shape="rect" id="node3" href="$wrapper__c_8cc.html" title="source/wrapper_c.cc" alt="" coords="823,102,966,129"/>
+<area shape="rect" id="node4" href="$continental__plate_8h.html" title="include/world_builder\l/features/continental\l_plate.h" alt="" coords="714,184,857,240"/>
+<area shape="rect" id="node7" href="$features_2interface_8h.html" title="include/world_builder\l/features/interface.h" alt="" coords="605,95,747,136"/>
+<area shape="rect" id="node5" href="$continental__plate_8cc.html" title="source/features/continental\l_plate.cc" alt="" coords="901,288,1080,329"/>
+<area shape="rect" id="node6" href="$features_2interface_8cc.html" title="source/features/interface.cc" alt="" coords="693,295,877,322"/>
+<area shape="rect" id="node8" href="$feature_8h.html" title="include/world_builder\l/types/feature.h" alt="" coords="341,191,483,233"/>
+<area shape="rect" id="node9" href="$parameters_8cc.html" title="source/parameters.cc" alt="" coords="338,295,486,322"/>
+<area shape="rect" id="node10" href="$feature_8cc.html" title="source/types/feature.cc" alt="" coords="510,295,669,322"/>
+<area shape="rect" id="node11" href="$types_2interface_8cc.html" title="source/types/interface.cc" alt="" coords="145,295,314,322"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="composition_3d" name="composition_3d">
+<area shape="rect" id="node2" href="$class_world_builder_1_1_world.html#a16020447fe6e5841ca75e39fec3dce50" title="WorldBuilder::World\l::composition" alt="" coords="167,71,305,112"/>
+<area shape="rect" id="node3" href="$class_world_builder_1_1_parameters.html#abf59510332ef627e088bf16d75809f11" title="WorldBuilder::Parameters\l::get_array" alt="" coords="353,5,524,47"/>
+<area shape="rect" id="node5" href="$class_world_builder_1_1_parameters.html#a72a62bf726413abf51a5cfbc56db397d" title="WorldBuilder::Parameters\l::get_point" alt="" coords="353,71,524,112"/>
+<area shape="rect" id="node6" href="$class_world_builder_1_1_point.html#a01bbbe92c0dc4c537083494adfd5b595" title="WorldBuilder::Point\l::get_array" alt="" coords="371,136,506,177"/>
+<area shape="rect" id="node4" href="$class_world_builder_1_1_parameters.html#adba572755f15c9fd0b529ecf922326a3" title="WorldBuilder::Parameters\l::get_full_path" alt="" coords="572,5,743,47"/>
+</map>

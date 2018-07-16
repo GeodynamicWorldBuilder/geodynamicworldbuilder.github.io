@@ -1,0 +1,5 @@
+<map id="WorldBuilder::Utilities::polygon_contains_point" name="WorldBuilder::Utilities::polygon_contains_point">
+<area shape="rect" id="node2" href="$class_world_builder_1_1_features_1_1_continental_plate.html#aa4b7c85b86345769b3aeec1c8a9738a2" title="WorldBuilder::Features\l::ContinentalPlate::temperature" alt="" coords="221,5,423,47"/>
+<area shape="rect" id="node3" href="$class_world_builder_1_1_features_1_1_continental_plate.html#abcc93bf72432a72db1a0f1403704284a" title="WorldBuilder::Features\l::ContinentalPlate::composition" alt="" coords="220,71,424,112"/>
+<area shape="rect" id="node4" href="$namespace_world_builder_1_1_utilities.html#a079f56cbd04c17fba1bf9c804406604a" title="WorldBuilder::Utilities\l::signed_distance_to_polygon" alt="" coords="225,136,419,177"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="node2" href="$namespace_world_builder_1_1_utilities.html#a09236d813373358de714b9c18578a040" title="WorldBuilder::Utilities\l::cartesian_to_spherical\l_coordinates" alt="" coords="157,5,317,61"/>
+<area shape="rect" id="node5" href="$class_world_builder_1_1_point.html#a01bbbe92c0dc4c537083494adfd5b595" title="WorldBuilder::Point\l::get_array" alt="" coords="170,86,305,127"/>
+<area shape="rect" id="node6" href="$unit__test__world__builder_8cc.html#a1aaf6508fe3a14e62f245a008a323980" title="compare_vectors_approx" alt="" coords="153,152,321,179"/>
+<area shape="rect" id="node7" href="$namespace_catch.html#ad631ea7966978087a74b24be7a3adaf8" title="Catch::begin" alt="" coords="189,203,285,229"/>
+<area shape="rect" id="node8" href="$namespace_catch.html#ac19253ceb17eee4cf6a10dd39e4a98c6" title="Catch::end" alt="" coords="194,253,281,280"/>
+<area shape="rect" id="node9" href="$namespace_world_builder_1_1_utilities.html#afb98030949c027e4716358efd56962af" title="WorldBuilder::Utilities\l::spherical_to_cartesian\l_coordinates" alt="" coords="157,304,317,360"/>
+<area shape="rect" id="node3" href="$class_world_builder_1_1_point.html#a5972e78ce3b0118b29731a4f70129efd" title="WorldBuilder::Point\l::norm" alt="" coords="369,13,504,54"/>
+<area shape="rect" id="node4" href="$class_world_builder_1_1_point.html#a6fdb2f0e1e9445d3590bbe3827af8be3" title="WorldBuilder::Point\l::norm_square" alt="" coords="552,13,687,54"/>
+</map>

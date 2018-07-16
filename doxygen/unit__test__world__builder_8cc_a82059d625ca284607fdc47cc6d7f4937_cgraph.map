@@ -1,0 +1,8 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="node2" href="$namespace_world_builder_1_1_utilities.html#a141ccdfc0ef611919d8739cf8ef6ba87" title="WorldBuilder::Utilities\l::string_to_double" alt="" coords="169,5,317,47"/>
+<area shape="rect" id="node3" href="$namespace_catch_1_1_matchers.html#a1f6c2accdc6cd75a84d7112dcad647b4" title="Catch::Matchers::Contains" alt="" coords="153,71,332,98"/>
+<area shape="rect" id="node4" href="$namespace_world_builder_1_1_utilities.html#a05dbcc47a53e65161932aed596eab3f5" title="WorldBuilder::Utilities\l::string_to_int" alt="" coords="169,123,317,164"/>
+<area shape="rect" id="node5" href="$namespace_world_builder_1_1_utilities.html#a9de508771241c7b72a4fff2447e9e19e" title="WorldBuilder::Utilities\l::string_to_unsigned_int" alt="" coords="163,188,323,229"/>
+<area shape="rect" id="node6" href="$namespace_world_builder_1_1_utilities.html#abc82bd5c40d1466f3cd34f8549f86e49" title="WorldBuilder::Utilities\l::convert_point_to_array" alt="" coords="161,253,324,295"/>
+<area shape="rect" id="node7" href="$namespace_world_builder_1_1_utilities.html#aee3fafd90d6491b5de8afcd74b4d6eb4" title="WorldBuilder::Utilities\l::string_to_coordinate\l_system" alt="" coords="169,319,317,375"/>
+</map>

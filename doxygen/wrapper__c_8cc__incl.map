@@ -1,0 +1,15 @@
+<map id="source/wrapper_c.cc" name="source/wrapper_c.cc">
+<area shape="rect" id="node3" href="$world_8h.html" title="world_builder/world.h" alt="" coords="782,80,926,107"/>
+<area shape="rect" id="node21" href="$wrapper__c_8h.html" title="world_builder/wrapper_c.h" alt="" coords="1525,80,1698,107"/>
+<area shape="rect" id="node22" href="$assert_8h.html" title="world_builder/assert.h" alt="" coords="1351,80,1501,107"/>
+<area shape="rect" id="node5" href="$parameters_8h.html" title="world_builder/parameters.h" alt="" coords="765,155,943,181"/>
+<area shape="rect" id="node9" href="$types_2interface_8h.html" title="world_builder/types\l/interface.h" alt="" coords="933,319,1068,360"/>
+<area shape="rect" id="node11" href="$unsigned__int_8h.html" title="world_builder/types\l/unsigned_int.h" alt="" coords="933,229,1068,271"/>
+<area shape="rect" id="node12" href="$double_8h.html" title="world_builder/types\l/double.h" alt="" coords="1092,229,1227,271"/>
+<area shape="rect" id="node13" href="$string_8h.html" title="world_builder/types\l/string.h" alt="" coords="323,229,457,271"/>
+<area shape="rect" id="node14" href="$types_2point_8h.html" title="world_builder/types\l/point.h" alt="" coords="164,229,299,271"/>
+<area shape="rect" id="node19" href="$array_8h.html" title="world_builder/types\l/array.h" alt="" coords="481,229,616,271"/>
+<area shape="rect" id="node20" href="$list_8h.html" title="world_builder/types\l/list.h" alt="" coords="640,229,775,271"/>
+<area shape="rect" id="node15" href="$point_8h.html" title="world_builder/point.h" alt="" coords="161,326,302,353"/>
+<area shape="rect" id="node18" href="$coordinate__system_8h.html" title="world_builder/coordinate\l_system.h" alt="" coords="285,408,447,449"/>
+</map>
