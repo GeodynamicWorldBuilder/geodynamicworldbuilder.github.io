@@ -1,0 +1,13 @@
+<map id="WorldBuilder::Point::get_array" name="WorldBuilder::Point::get_array">
+<area shape="rect" id="node2" href="$class_world_builder_1_1_point.html#a36831ba558cf9ed5240aabedddafa8f2" title="WorldBuilder::Point\l::operator*" alt="" coords="218,5,353,47"/>
+<area shape="rect" id="node4" href="$namespace_world_builder_1_1_utilities.html#a079f56cbd04c17fba1bf9c804406604a" title="WorldBuilder::Utilities\l::signed_distance_to_polygon" alt="" coords="188,71,383,112"/>
+<area shape="rect" id="node5" href="$class_world_builder_1_1_world.html#ad3f3974565da90856ce01151b89a7912" title="WorldBuilder::World\l::temperature" alt="" coords="216,136,355,177"/>
+<area shape="rect" id="node9" href="$class_world_builder_1_1_world.html#a16020447fe6e5841ca75e39fec3dce50" title="WorldBuilder::World\l::composition" alt="" coords="216,268,355,309"/>
+<area shape="rect" id="node3" href="$namespace_world_builder.html#ac3805b345bdb30912ef6be527103db55" title="WorldBuilder::operator*" alt="" coords="431,13,587,39"/>
+<area shape="rect" id="node6" href="$class_world_builder_1_1_world.html#a9f68c76b9a2a815d5d616b01d8e28148" title="WorldBuilder::World\l::temperature" alt="" coords="439,71,578,112"/>
+<area shape="rect" id="node7" href="$wrapper__c_8h.html#a1e060386322e5fcffb72f4c95bdc1bc6" title="temperature_2d" alt="" coords="453,137,565,163"/>
+<area shape="rect" id="node8" href="$wrapper__c_8h.html#a427909d2f4b0d3e5e47d81c583af7358" title="temperature_3d" alt="" coords="453,187,565,214"/>
+<area shape="rect" id="node10" href="$class_world_builder_1_1_world.html#a5ef7d82899bb42c98224cf809ea122e0" title="WorldBuilder::World\l::composition" alt="" coords="439,239,578,280"/>
+<area shape="rect" id="node11" href="$wrapper__c_8h.html#a435f95dfbd68998e47013e1357103972" title="composition_2d" alt="" coords="452,305,565,331"/>
+<area shape="rect" id="node12" href="$wrapper__c_8h.html#a6888b4c88d4b72d53dc8084358670097" title="composition_3d" alt="" coords="452,355,565,382"/>
+</map>

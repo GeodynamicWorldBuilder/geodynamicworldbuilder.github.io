@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$namespace_catch.html#a50af73c5a37ad5c6558df4ce4a275e83" title="Catch::cout" alt="" coords="139,5,229,32"/>
+<area shape="rect" id="node3" href="$namespace_catch.html#a4e5b5dc07abdfa30de33593dfab71f43" title="Catch::cerr" alt="" coords="141,56,227,83"/>
+<area shape="rect" id="node4" href="$namespace_catch.html#ad631ea7966978087a74b24be7a3adaf8" title="Catch::begin" alt="" coords="136,107,232,133"/>
+<area shape="rect" id="node5" href="$namespace_catch.html#ac19253ceb17eee4cf6a10dd39e4a98c6" title="Catch::end" alt="" coords="141,157,227,184"/>
+<area shape="rect" id="node6" href="$namespace_world_builder_1_1_utilities.html#a9de508771241c7b72a4fff2447e9e19e" title="WorldBuilder::Utilities\l::string_to_unsigned_int" alt="" coords="104,209,264,250"/>
+<area shape="rect" id="node7" href="$namespace_world_builder_1_1_utilities.html#a141ccdfc0ef611919d8739cf8ef6ba87" title="WorldBuilder::Utilities\l::string_to_double" alt="" coords="110,274,258,315"/>
+</map>

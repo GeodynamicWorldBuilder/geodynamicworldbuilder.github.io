@@ -1,0 +1,20 @@
+<map id="source/parameters.cc" name="source/parameters.cc">
+<area shape="rect" id="node6" href="$assert_8h.html" title="world_builder/assert.h" alt="" coords="2173,87,2323,114"/>
+<area shape="rect" id="node11" href="$parameters_8h.html" title="world_builder/parameters.h" alt="" coords="984,355,1163,382"/>
+<area shape="rect" id="node26" href="$utilities_8h.html" title="world_builder/utilities.h" alt="" coords="1756,266,1911,293"/>
+<area shape="rect" id="node28" href="$feature_8h.html" title="world_builder/types\l/feature.h" alt="" coords="919,80,1054,121"/>
+<area shape="rect" id="node31" href="$types_2coordinate__system_8h.html" title="world_builder/types\l/coordinate_system.h" alt="" coords="1585,259,1732,300"/>
+<area shape="rect" id="node32" href="$config_8h.html" title="config.h" alt="" coords="2023,534,2091,561"/>
+<area shape="rect" id="node14" href="$types_2interface_8h.html" title="world_builder/types\l/interface.h" alt="" coords="722,527,857,568"/>
+<area shape="rect" id="node16" href="$unsigned__int_8h.html" title="world_builder/types\l/unsigned_int.h" alt="" coords="986,437,1121,479"/>
+<area shape="rect" id="node17" href="$double_8h.html" title="world_builder/types\l/double.h" alt="" coords="299,437,434,479"/>
+<area shape="rect" id="node18" href="$string_8h.html" title="world_builder/types\l/string.h" alt="" coords="458,437,593,479"/>
+<area shape="rect" id="node19" href="$types_2point_8h.html" title="world_builder/types\l/point.h" alt="" coords="1145,437,1279,479"/>
+<area shape="rect" id="node24" href="$array_8h.html" title="world_builder/types\l/array.h" alt="" coords="617,437,751,479"/>
+<area shape="rect" id="node25" href="$list_8h.html" title="world_builder/types\l/list.h" alt="" coords="827,437,962,479"/>
+<area shape="rect" id="node20" href="$point_8h.html" title="world_builder/point.h" alt="" coords="1535,534,1676,561"/>
+<area shape="rect" id="node23" href="$coordinate__system_8h.html" title="world_builder/coordinate\l_system.h" alt="" coords="1683,616,1845,657"/>
+<area shape="rect" id="node27" href="$coordinate__systems_2interface_8h.html" title="world_builder/coordinate\l_systems/interface.h" alt="" coords="1615,348,1777,389"/>
+<area shape="rect" id="node29" href="$features_2interface_8h.html" title="world_builder/features\l/interface.h" alt="" coords="1153,169,1303,211"/>
+<area shape="rect" id="node30" href="$world_8h.html" title="world_builder/world.h" alt="" coords="1180,266,1324,293"/>
+</map>

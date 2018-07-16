@@ -1,0 +1,7 @@
+<map id="temperature_3d" name="temperature_3d">
+<area shape="rect" id="node2" href="$class_world_builder_1_1_world.html#ad3f3974565da90856ce01151b89a7912" title="WorldBuilder::World\l::temperature" alt="" coords="165,71,304,112"/>
+<area shape="rect" id="node3" href="$class_world_builder_1_1_parameters.html#abf59510332ef627e088bf16d75809f11" title="WorldBuilder::Parameters\l::get_array" alt="" coords="352,5,523,47"/>
+<area shape="rect" id="node5" href="$class_world_builder_1_1_parameters.html#a72a62bf726413abf51a5cfbc56db397d" title="WorldBuilder::Parameters\l::get_point" alt="" coords="352,71,523,112"/>
+<area shape="rect" id="node6" href="$class_world_builder_1_1_point.html#a01bbbe92c0dc4c537083494adfd5b595" title="WorldBuilder::Point\l::get_array" alt="" coords="370,136,505,177"/>
+<area shape="rect" id="node4" href="$class_world_builder_1_1_parameters.html#adba572755f15c9fd0b529ecf922326a3" title="WorldBuilder::Parameters\l::get_full_path" alt="" coords="571,5,741,47"/>
+</map>

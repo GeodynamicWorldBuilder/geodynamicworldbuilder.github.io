@@ -1,0 +1,21 @@
+<map id="WorldBuilder::Features::ContinentalPlate::decare_entries" name="WorldBuilder::Features::ContinentalPlate::decare_entries">
+<area shape="rect" id="node2" href="$class_world_builder_1_1_parameters.html#a5a85d066466e0db7fea08005d0b0946a" title="WorldBuilder::Parameters\l::load_entry" alt="" coords="227,267,397,308"/>
+<area shape="rect" id="node13" href="$class_world_builder_1_1_parameters.html#a8c912a383502350c6480b34e4aa8219d" title="WorldBuilder::Parameters\l::enter_subsection" alt="" coords="458,544,629,585"/>
+<area shape="rect" id="node15" href="$class_world_builder_1_1_parameters.html#abd0cdd3a9a3a4d6de050cbe9f4b98f83" title="WorldBuilder::Parameters\l::leave_subsection" alt="" coords="458,609,629,651"/>
+<area shape="rect" id="node17" href="$class_world_builder_1_1_parameters.html#af7035a13a22ff714d45bd94489cefadf" title="WorldBuilder::Parameters\l::get_string" alt="" coords="227,71,397,112"/>
+<area shape="rect" id="node18" href="$class_world_builder_1_1_parameters.html#abf59510332ef627e088bf16d75809f11" title="WorldBuilder::Parameters\l::get_array" alt="" coords="227,136,397,177"/>
+<area shape="rect" id="node19" href="$class_world_builder_1_1_parameters.html#a845b5c1d9743f2b4aef0725ce0fab72b" title="WorldBuilder::Parameters\l::get_double" alt="" coords="227,201,397,243"/>
+<area shape="rect" id="node20" href="$class_world_builder_1_1_parameters.html#a63a54dae658426fbb175fc4340a50d06" title="WorldBuilder::Parameters\l::get_unsigned_int" alt="" coords="227,5,397,47"/>
+<area shape="rect" id="node3" href="$class_world_builder_1_1_parameters.html#adba572755f15c9fd0b529ecf922326a3" title="WorldBuilder::Parameters\l::get_full_path" alt="" coords="458,5,629,47"/>
+<area shape="rect" id="node4" href="$class_world_builder_1_1_types_1_1_interface.html#abf8f901d692ca9202a39580cd08c4edc" title="WorldBuilder::Types\l::Interface::get_type" alt="" coords="473,201,613,243"/>
+<area shape="rect" id="node5" href="$namespace_world_builder_1_1_utilities.html#a6ee134184148c2e0c49d8b1014dc275d" title="WorldBuilder::Utilities\l::get_from_ptree_abs" alt="" coords="469,267,617,308"/>
+<area shape="rect" id="node10" href="$namespace_world_builder_1_1_utilities.html#a9de508771241c7b72a4fff2447e9e19e" title="WorldBuilder::Utilities\l::string_to_unsigned_int" alt="" coords="463,332,623,373"/>
+<area shape="rect" id="node11" href="$namespace_world_builder_1_1_utilities.html#a141ccdfc0ef611919d8739cf8ef6ba87" title="WorldBuilder::Utilities\l::string_to_double" alt="" coords="469,397,617,439"/>
+<area shape="rect" id="node12" href="$namespace_world_builder_1_1_coordinate_systems.html#a434be8229f5ef4613b37e92fd4b5f617" title="WorldBuilder::Coordinate\lSystems::create_coordinate\l_system" alt="" coords="451,463,636,519"/>
+<area shape="rect" id="node14" href="$namespace_world_builder_1_1_features.html#afeac8451ca70828efc9679abbc8204c7" title="WorldBuilder::Features\l::create_feature" alt="" coords="466,71,621,112"/>
+<area shape="rect" id="node16" href="$class_world_builder_1_1_parameters.html#a49ccc7efe81306b650962d092f9cab47" title="WorldBuilder::Parameters\l::get_full_path_without_arrays" alt="" coords="445,136,641,177"/>
+<area shape="rect" id="node6" href="$namespace_world_builder_1_1_utilities.html#a1fe4b15acb2c4ea0ac55a95c4477ae25" title="WorldBuilder::Utilities\l::print_tree" alt="" coords="689,267,837,308"/>
+<area shape="rect" id="node7" href="$namespace_world_builder_1_1_utilities.html#a39baed4bd7d21c4562827fc90644632b" title="WorldBuilder::Utilities\l::indent" alt="" coords="908,201,1056,243"/>
+<area shape="rect" id="node8" href="$namespace_world_builder_1_1_utilities.html#adda720ed470dce0a79d154ce315a6996" title="WorldBuilder::Utilities\l::convert_point_to_array\&lt; 2 \&gt;" alt="" coords="885,267,1079,308"/>
+<area shape="rect" id="node9" href="$namespace_world_builder_1_1_utilities.html#a7c0013eae25fb336a095347ecbb22d03" title="WorldBuilder::Utilities\l::convert_point_to_array\&lt; 3 \&gt;" alt="" coords="885,332,1079,373"/>
+</map>

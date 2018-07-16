@@ -1,0 +1,11 @@
+<map id="TEST_CASE" name="TEST_CASE">
+<area shape="rect" id="node2" href="$namespace_world_builder_1_1_utilities.html#aaaac13b8563408c45af0aa9d3c8c7dd4" title="WorldBuilder::Utilities\l::polygon_contains_point" alt="" coords="410,5,577,47"/>
+<area shape="rect" id="node3" href="$namespace_world_builder_1_1_utilities.html#a99166386a1f1d47e4f1d7f85ecfa421d" title="WorldBuilder::Utilities\l::signed_distance_to_polygon" alt="" coords="153,144,348,185"/>
+<area shape="rect" id="node10" href="$namespace_catch_1_1_matchers.html#a1f6c2accdc6cd75a84d7112dcad647b4" title="Catch::Matchers::Contains" alt="" coords="161,210,340,237"/>
+<area shape="rect" id="node4" href="$class_world_builder_1_1_point.html#a5972e78ce3b0118b29731a4f70129efd" title="WorldBuilder::Point\l::norm" alt="" coords="426,71,561,112"/>
+<area shape="rect" id="node6" href="$class_world_builder_1_1_utilities_1_1_natural_coordinate.html#ac02ec706e6415f702ad8275bad104bca" title="WorldBuilder::Utilities\l::NaturalCoordinate::Natural\lCoordinate" alt="" coords="401,137,586,193"/>
+<area shape="rect" id="node7" href="$class_world_builder_1_1_coordinate_systems_1_1_interface.html#aa796fb95737d2b321cc298f27ac95003" title="WorldBuilder::Coordinate\lSystems::Interface::natural\l_coordinate_system" alt="" coords="403,217,583,273"/>
+<area shape="rect" id="node8" href="$class_world_builder_1_1_coordinate_systems_1_1_interface.html#ab545a33dbe6e26e860dc05a3185bf0a8" title="WorldBuilder::Coordinate\lSystems::Interface::cartesian\l_to_natural_coordinates" alt="" coords="396,297,591,353"/>
+<area shape="rect" id="node9" href="$class_world_builder_1_1_point.html#a01bbbe92c0dc4c537083494adfd5b595" title="WorldBuilder::Point\l::get_array" alt="" coords="426,377,561,419"/>
+<area shape="rect" id="node5" href="$class_world_builder_1_1_point.html#a6fdb2f0e1e9445d3590bbe3827af8be3" title="WorldBuilder::Point\l::norm_square" alt="" coords="639,71,773,112"/>
+</map>

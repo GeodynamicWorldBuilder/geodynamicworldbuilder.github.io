@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_world_builder_1_1_types_1_1_interface.html" title="WorldBuilder::Types\l::Interface" alt="" coords="5,235,145,276"/>
+<area shape="rect" id="node2" href="$class_world_builder_1_1_types_1_1_array.html" title="WorldBuilder::Types\l::Array" alt="" coords="193,5,333,47"/>
+<area shape="rect" id="node3" href="$class_world_builder_1_1_types_1_1_coordinate_system.html" title="WorldBuilder::Types\l::CoordinateSystem" alt="" coords="193,71,333,112"/>
+<area shape="rect" id="node4" href="$class_world_builder_1_1_types_1_1_double.html" title="WorldBuilder::Types\l::Double" alt="" coords="193,136,333,177"/>
+<area shape="rect" id="node5" href="$class_world_builder_1_1_types_1_1_feature.html" title="WorldBuilder::Types\l::Feature" alt="" coords="193,201,333,243"/>
+<area shape="rect" id="node6" href="$class_world_builder_1_1_types_1_1_list.html" title="WorldBuilder::Types\l::List" alt="" coords="193,267,333,308"/>
+<area shape="rect" id="node7" href="$class_world_builder_1_1_types_1_1_point.html" title="WorldBuilder::Types\l::Point\&lt; dim \&gt;" alt="" coords="193,332,333,373"/>
+<area shape="rect" id="node8" href="$class_world_builder_1_1_types_1_1_string.html" title="WorldBuilder::Types\l::String" alt="" coords="193,397,333,439"/>
+<area shape="rect" id="node9" href="$class_world_builder_1_1_types_1_1_unsigned_int.html" title="WorldBuilder::Types\l::UnsignedInt" alt="" coords="193,463,333,504"/>
+</map>

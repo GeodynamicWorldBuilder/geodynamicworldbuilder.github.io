@@ -1,0 +1,5 @@
+<map id="WorldBuilder::World::temperature" name="WorldBuilder::World::temperature">
+<area shape="rect" id="node2" href="$class_world_builder_1_1_world.html#a9f68c76b9a2a815d5d616b01d8e28148" title="WorldBuilder::World\l::temperature" alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node3" href="$wrapper__c_8h.html#a1e060386322e5fcffb72f4c95bdc1bc6" title="temperature_2d" alt="" coords="205,71,317,98"/>
+<area shape="rect" id="node4" href="$wrapper__c_8h.html#a427909d2f4b0d3e5e47d81c583af7358" title="temperature_3d" alt="" coords="205,122,317,149"/>
+</map>

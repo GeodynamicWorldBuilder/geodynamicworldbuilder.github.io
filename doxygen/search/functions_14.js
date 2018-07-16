@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['_7eassertionhandler',['~AssertionHandler',['../class_catch_1_1_assertion_handler.html#a1e839d810f6ac0fa6d127fe8350175ed',1,'Catch::AssertionHandler']]],
+  ['_7eautoreg',['~AutoReg',['../struct_catch_1_1_auto_reg.html#a3cdb53f1e5ff115310f3372bebe198f1',1,'Catch::AutoReg']]],
+  ['_7ecartesian',['~Cartesian',['../class_world_builder_1_1_coordinate_systems_1_1_cartesian.html#a3e0f4048b7fb0ed0ac799c8e0ad7d784',1,'WorldBuilder::CoordinateSystems::Cartesian']]],
+  ['_7econtinentalplate',['~ContinentalPlate',['../class_world_builder_1_1_features_1_1_continental_plate.html#a7ba49cb44220e6288820b443c68c3071',1,'WorldBuilder::Features::ContinentalPlate']]],
+  ['_7eiexceptiontranslator',['~IExceptionTranslator',['../struct_catch_1_1_i_exception_translator.html#afa00bb6258c07591df472aadae05783f',1,'Catch::IExceptionTranslator']]],
+  ['_7eiexceptiontranslatorregistry',['~IExceptionTranslatorRegistry',['../struct_catch_1_1_i_exception_translator_registry.html#acf7402e18789ea46d54ea8564ac358d3',1,'Catch::IExceptionTranslatorRegistry']]],
+  ['_7eimutableregistryhub',['~IMutableRegistryHub',['../struct_catch_1_1_i_mutable_registry_hub.html#a759ca1e044e19f905fb4d306f1367193',1,'Catch::IMutableRegistryHub']]],
+  ['_7einterface',['~Interface',['../class_world_builder_1_1_coordinate_systems_1_1_interface.html#ae5cd7b3d59684410d6dd818a8b1c3b08',1,'WorldBuilder::CoordinateSystems::Interface::~Interface()'],['../class_world_builder_1_1_features_1_1_interface.html#ac9a170d265c3d7efaf99cb2aba5af01f',1,'WorldBuilder::Features::Interface::~Interface()']]],
+  ['_7eiregistryhub',['~IRegistryHub',['../struct_catch_1_1_i_registry_hub.html#a050de0f27f96888c8b410992146c9a09',1,'Catch::IRegistryHub']]],
+  ['_7eiresultcapture',['~IResultCapture',['../struct_catch_1_1_i_result_capture.html#a3bd16719d6772b7470887fc36c6d0808',1,'Catch::IResultCapture']]],
+  ['_7eirunner',['~IRunner',['../struct_catch_1_1_i_runner.html#a5f539a88a7772d68de8a2e4028774209',1,'Catch::IRunner']]],
+  ['_7eistream',['~IStream',['../struct_catch_1_1_i_stream.html#a344a88d0e5fc1f727f5801c72b4a4e2a',1,'Catch::IStream']]],
+  ['_7eitestcaseregistry',['~ITestCaseRegistry',['../struct_catch_1_1_i_test_case_registry.html#ae14798f05ac8e2b18cff532849a4da81',1,'Catch::ITestCaseRegistry']]],
+  ['_7eitestinvoker',['~ITestInvoker',['../struct_catch_1_1_i_test_invoker.html#a2c89f3eece5b1b677243766e409bd831',1,'Catch::ITestInvoker']]],
+  ['_7eitransientexpression',['~ITransientExpression',['../struct_catch_1_1_i_transient_expression.html#aeadf426de589938c4964fe4068eeee77',1,'Catch::ITransientExpression']]],
+  ['_7ematcheruntypedbase',['~MatcherUntypedBase',['../class_catch_1_1_matchers_1_1_impl_1_1_matcher_untyped_base.html#a853be93ce33f71b5abede38081c79e9d',1,'Catch::Matchers::Impl::MatcherUntypedBase']]],
+  ['_7enoncopyable',['~NonCopyable',['../class_catch_1_1_non_copyable.html#a81254677280fef337eb4a676e91e3293',1,'Catch::NonCopyable']]],
+  ['_7epoint',['~Point',['../class_world_builder_1_1_point.html#a12bd16b33d4ba4ad1b5114a3d5e6d3c8',1,'WorldBuilder::Point']]],
+  ['_7ereusablestringstream',['~ReusableStringStream',['../class_catch_1_1_reusable_string_stream.html#aba9384e258a4db3178447b6a58414712',1,'Catch::ReusableStringStream']]],
+  ['_7escopedmessage',['~ScopedMessage',['../class_catch_1_1_scoped_message.html#a43190843f9eeb84a0b42b0bc95fdf93a',1,'Catch::ScopedMessage']]],
+  ['_7esection',['~Section',['../class_catch_1_1_section.html#aa1422edd68a77aa578b5cc6b8b69f86f',1,'Catch::Section']]],
+  ['_7estringref',['~StringRef',['../class_catch_1_1_string_ref.html#a387795c6d883d7281befe5e82920faf8',1,'Catch::StringRef']]],
+  ['_7eworld',['~World',['../class_world_builder_1_1_world.html#a84824d6e88a006a716ea7c6c55394d9f',1,'WorldBuilder::World']]]
+];
