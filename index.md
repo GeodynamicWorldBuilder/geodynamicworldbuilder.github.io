@@ -9,22 +9,34 @@ What is the Geodynamic World Builder?
 This c++ library (with wrappers for c and fortran) allows you to easily set up 
 models of intermidary complexity:
  ```js
+"version":"0.1",
+"coordinate system":{"spherical":{"depth method":"begin segment"}},
+"cross section":[[0,0],[10,0]],
+"surface objects":
 {
-    "cross section": [[100e3,100e3],[400e3,500e3]],
-    "coordinate system":{"name":"cartesian"},
-    "Surface objects":
+  "oceanic plate":{"name":"oceanic plate", "coordinates":[[-1,-1],[11.5,-1],[11.5,1],[-1,1]],
+                   "temperature model":{"name":"plate model", "depth":95e3, "spreading velocity":0.005, "ridge points":[[1,-1],[1,1]]},
+                   "composition model":{"name":"constant layers", "layers":[{"composition":0, "thickness":10e3},{"composition":1, "thickness":85e3}]}},
+
+  "continental plate":{"name":"continental plate", "coordinates":[[11.5,-1],[21,-1],[21,1],[11.5,1]],
+                   "temperature model":{"name":"linear", "depth":95e3},
+                   "composition model":{"name":"constant layers", "layers":[{"composition":2, "thickness":30e3},{"composition":3, "thickness":65e3}]}},
+
+  "mantle layer":{"name":"upper mantle", "top depth":95e3, "coordinates":[[-1,-1],[21,-1],[21,1],[-1,1]],
+                   "temperature model":{"name":"none"},
+                   "composition model":{"name":"constant", "depth":565e3, "composition":4}},
+
+  "mantle layer":{"name":"lower mantle", "top depth":660e3, "coordinates":[[-1,-1],[21,-1],[21,1],[-1,1]],
+                   "temperature model":{"name":"none"},
+                   "composition model":{"name":"constant", "depth":500e3, "composition":5}},
+
+  "subducting plate":{"name":"Subducting plate", "coordinates":[[11.5,-1],[11.5,1]], "reference point":[20,0],
+    "segments":
     {
-     "continental plate":{"name":"Carribean","coordinates":[[-1e3,500e3],[500e3,500e3],[500e3,1000e3],[-1e3,1000e3]],
-         "temperature model":{"name":"constant", "depth":250e3, "temperature":150},
-         "composition model":{"name":"none"}},
-
-     "continental Plate":{"name":"Rest", "coordinates":[[2000e3,2000e3],[1000e3,2000e3],[1000e3,1000e3],[2000e3,1000e3]],
-         "temperature model":{"name":"constant", "depth":250e3, "temperature":20},
-         "composition model":{"name":"constant", "depth":250e3, "composition":2}},
-
-     "continental plate":{"name":"Carribean2","coordinates":[[-1e3,500e3],[500e3,500e3],[500e3,1000e3],[-1e3,1000e3]],
-         "temperature model":{"name":"none", "depth":250e3, "temperature":150},
-         "composition model":{"name":"constant", "depth":250e3, "composition":3}}
-    }
+      "all":[{"length":200e3, "thickness":[95e3], "angle":[0,45]}, {"length":200e3, "thickness":[95e3], "angle":[45]},
+             {"length":200e3, "thickness":[95e3], "angle":[45,0]},{"length":100e3, "thickness":[95e3], "angle":[0]}]
+    },
+    "temperature model":{"name":"plate model", "density":3300, "plate velocity":0.01 },
+    "composition model":{"name":"constant layers", "layers":[{"composition":0, "thickness":10e3},{"composition":1, "thickness":85e3}]}}
 }
 ```
