@@ -4,10 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-What is the Geodynamic World Builder? 
+What is the Geodynamic World Builder?
 ====================================
-This c++ library (with wrappers for C and Fortran) allows you to easily set up 
-models of intermidary complexity:
+This c++ library (with wrappers for C and Fortran) allows you to easily set up
+models of intermediate complexity:
  ```js
 {
   "version":"0.2",
@@ -42,7 +42,7 @@ models of intermidary complexity:
                 {"length":200e3, "thickness":[100e3], "angle":[50,0]},
                 {"length":100e3, "thickness":[100e3], "angle":[0]}],
        "temperature models":[{"model":"plate model", "density":3300, "plate velocity":0.02 }],
-       "composition models":[{"model":"uniform", "compositions":[0], "max distance slab top":30e3}, 
+       "composition models":[{"model":"uniform", "compositions":[0], "max distance slab top":30e3},
                              {"model":"uniform", "compositions":[1], "min distance slab top":30e3}]},
 
     {"model":"subducting plate", "name":"Slab B",
@@ -53,7 +53,7 @@ models of intermidary complexity:
                    {"length":200e3, "thickness":[100e3], "angle":[80,0]},
                    {"length":100e3, "thickness":[100e3], "angle":[0]}],
        "temperature models":[{"model":"plate model", "density":3300, "plate velocity":0.01 }],
-       "composition models":[{"model":"uniform", "compositions":[2], "max distance slab top":30e3}, 
+       "composition models":[{"model":"uniform", "compositions":[2], "max distance slab top":30e3},
                              {"model":"uniform", "compositions":[3], "min distance slab top":30e3}]}
   ]
 }
