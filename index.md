@@ -10,51 +10,41 @@ This c++ library (with wrappers for C and Fortran) allows you to easily set up
 models of intermediate complexity:
  ```js
 {
-  "version":"0.2",
-  "coordinate system":{"model":"cartesian"},
+  "version":"0.3",
+  "cross section":[[0,200e3],[100e3,200e3]],
   "features":
   [
-    {"model":"oceanic plate", "name":"Plate A", "max depth":100e3,
-       "coordinates":[[-1e3,-1e3],[1000e3,-1e3],[1000e3,2001e3],[-1e3,2001e3]],
-       "temperature models":[{"model":"linear", "max depth":100e3}],
-       "composition models":[{"model":"uniform", "compositions":[0], "max depth":30e3},
-                             {"model":"uniform", "compositions":[1], "min depth":30e3}]},
-
-    {"model":"oceanic plate", "name":"Plate B", "max depth":100e3,
-       "coordinates":[[1000e3,-1e3],[2001e3,-1e3],[2001e3,2001e3],[1000e3,2001e3]],
-       "temperature models":[{"model":"linear", "max depth":100e3}],
-       "composition models":[{"model":"uniform", "compositions":[2], "max depth":30e3},
-                             {"model":"uniform", "compositions":[3], "min depth":30e3}]},
-
     {"model":"mantle layer", "name":"upper mantle", "min depth":100e3, "max depth":660e3,
-       "coordinates":[[2001e3,2001e3],[-1e3,2001e3],[-1e3,-1e3],[2001e3,-1e3]],
+       "coordinates":[[0,0],[0,1000e3],[2000e3,1000e3],[2000e3,0]],
        "composition models":[{"model":"uniform", "compositions":[4]}]},
 
-    {"model":"mantle layer", "name":"lower mantle", "min depth":660e3, "max depth":1160e3,
-       "coordinates":[[2001e3,2001e3],[-1e3,2001e3],[-1e3,-1e3],[2001e3,-1e3]],
-       "composition models":[{"model":"uniform", "compositions":[5]}]},
+    {"model":"oceanic plate", "name":"Overriding plate", "max depth":100e3,
+       "coordinates":[[0,0],[0,1000e3],[1500e3,1000e3],[1600e3,350e3],[1500e3,0]],
+       "temperature models":[{"model":"plate model", "max depth":100e3, "spreading velocity":0.01,
+                              "ridge coordinates":[[400e3,-1],[-100e3,2000e3]]}],
+       "composition models":[{"model":"uniform", "compositions":[0], "max depth":100e3}]},
 
-    {"model":"subducting plate", "name":"Slab A",
-       "coordinates":[[950e3,-1e3],[950e3,800e3]],
-       "dip point":[2000e3,0],
-       "segments":[{"length":200e3, "thickness":[100e3], "angle":[0,50]},
-                {"length":298e3, "thickness":[100e3], "angle":[50]},
-                {"length":200e3, "thickness":[100e3], "angle":[50,0]},
-                {"length":100e3, "thickness":[100e3], "angle":[0]}],
+    {"model":"oceanic plate", "name":"Atlantic Plate", "max depth":100e3,
+       "coordinates":[[2000e3,0],[2000e3,1000e3],[1500e3,1000e3],[1600e3,350e3],[1500e3,0]],
+       "temperature models":[{"model":"linear", "max depth":100e3}],
+       "composition models":[{"model":"uniform", "compositions":[3], "max depth":50e3},
+                             {"model":"uniform", "compositions":[1], "min depth":50e3}]},
+
+    {"model":"subducting plate", "name":"Slab",
+       "coordinates":[[1500e3,1000e3],[1600e3,350e3],[1500e3,0]],
+       "dip point":[0,0],
+       "segments":[{"length":300e3, "thickness":[100e3], "angle":[0,60],
+                   "composition models":[{"model":"uniform", "compositions":[3], "max distance slab top":50e3},
+                                        {"model":"uniform", "compositions":[2], "min distance slab top":50e3}]},
+                   {"length":500e3, "thickness":[100e3], "angle":[60,20]}],
+       "sections":[
+         {"coordinate":0,
+        "segments":[{"length":300e3, "thickness":[100e3], "angle":[0,60]},
+                    {"length":400e3, "thickness":[100e3,50e3], "angle":[60]}],
+         "composition models":[{"model":"uniform", "compositions":[1]}]}
+       ],
        "temperature models":[{"model":"plate model", "density":3300, "plate velocity":0.02 }],
-       "composition models":[{"model":"uniform", "compositions":[0], "max distance slab top":30e3},
-                             {"model":"uniform", "compositions":[1], "min distance slab top":30e3}]},
-
-    {"model":"subducting plate", "name":"Slab B",
-       "coordinates":[[1050e3,1000e3],[1050e3,2001e3]],
-       "dip point":[-2000e3,0],
-       "segments":[{"length":200e3, "thickness":[100e3], "angle":[0,80]},
-                   {"length":298e3, "thickness":[100e3], "angle":[80]},
-                   {"length":200e3, "thickness":[100e3], "angle":[80,0]},
-                   {"length":100e3, "thickness":[100e3], "angle":[0]}],
-       "temperature models":[{"model":"plate model", "density":3300, "plate velocity":0.01 }],
-       "composition models":[{"model":"uniform", "compositions":[2], "max distance slab top":30e3},
-                             {"model":"uniform", "compositions":[3], "min distance slab top":30e3}]}
+       "composition models":[{"model":"uniform", "compositions":[2], "max distance slab top":100e3}]}
   ]
 }
 ```
