@@ -9,11 +9,13 @@ layout: default
 
   {{ content }}
 
+  <br><br>
+{% include rss_feed.html %} 
+  <br><br>
+  
   <h1  id="install" class="install-heading">{{ install.title | default: "How to install the World Builder?" }} </h1>
   The Geodynamic World Builder can be installed on many different systems and coupled with programs written in many different programming languages. Linux, OSX, and Windows are offically supported operating systems. The World Builder itself is written in C++, but has wrappers for C and fortran. A command line application is also included. Through the C wrapper it can be called from nearly any other langugage like Python and Matlab. Futhermore a visualzation tool is included. The installation process of each use case is described in the <a class="post-link" href="https://gwb.mfraters.net/manual/manual.pdf">manual</a>. If you can't find install instructions for operating system or find mistakes, please create an issue on github or create a pull request with the solution.
 
-  <br><br>
-{% include rss_feed.html %} 
 </div>
 
   
