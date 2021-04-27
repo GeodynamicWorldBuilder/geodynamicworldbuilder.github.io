@@ -18,13 +18,16 @@ title: World Builder
 description: >- # this means to ignore newlines until "baseurl:"
         An initial conditions generator for geodynamic modeling
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+summary: An initial conditions generator for geodynamic modeling
+website: website
+url: "https://geodynamicworldbuilder.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  geodynamicworldbuilder
 show_downloads: true
 show_excerpts: true
 
 avatar: android-chrome-192x192.png
+locale:             en_US
 
 
 repository: geodynamicworldbuilder/WorldBuilder
