@@ -12,26 +12,6 @@ layout: default
   <h1  id="install" class="install-heading">{{ install.title | default: "How to install the World Builder?" }} </h1>
   The Geodynamic World Builder can be installed on many different systems and coupled with programs written in many different programming languages. Linux, OSX, and Windows are offically supported operating systems. The World Builder itself is written in C++, but has wrappers for C and fortran. A command line application is also included. Through the C wrapper it can be called from nearly any other langugage like Python and Matlab. Futhermore a visualzation tool is included. The installation process of each use case is described in the <a class="post-link" href="https://gwb.mfraters.net/manual/manual.pdf">manual</a>. If you can't find install instructions for operating system or find mistakes, please create an issue on github or create a pull request with the solution.
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-
+  <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts" width="800" height="800" src="http://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fsocial.mfraters.net%2Fusers%2Fworld_builder&theme=dark&size=100&header=true&replies=true&boosts=true"></iframe>
+  
 </div>
