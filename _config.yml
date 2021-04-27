@@ -24,6 +24,9 @@ github_username:  geodynamicworldbuilder
 show_downloads: true
 show_excerpts: true
 
+avatar: android-chrome-192x192.png
+
+
 repository: geodynamicworldbuilder/WorldBuilder
 # Build settings
 markdown: kramdown
