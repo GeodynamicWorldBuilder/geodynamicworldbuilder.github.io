@@ -7,7 +7,7 @@ layout: home
 What is the Geodynamic World Builder?
 ====================================
 This c++ library (with wrappers for C, Fortran and Python) allows you to easily set up
-models of intermediate complexity:
+models of intermediate complexity. This code is enough to generate the model in the pictures seen below:
  ```js
 {
   "version":"0.3",
@@ -48,8 +48,11 @@ models of intermediate complexity:
   ]
 }
 ```
-![RFM-11-2D_c1_T](https://user-images.githubusercontent.com/7631629/116261338-d451a780-a777-11eb-82e0-5225c7b884ea.png)
-Two cross sections through the model above. The top one show the different compositional layers and the bottom show the temperature field.
-
+This is a 3D view of the model defined by the code above. The top picture shows the different compositional fields and the bottom picutre show the temperature field.
 ![RFM-12-sections-hires_c1_T](https://user-images.githubusercontent.com/7631629/116262023-7d989d80-a778-11eb-8f6e-fd84111a588a.png)
-The same as the picture above, but now in 3D!
+
+
+This crosssection is made by providing 2D coordinates to the world builder. Like the picture above, the top picture shows the different compositional fields and the bottom picture show the temperature field.
+![RFM-11-2D_c1_T](https://user-images.githubusercontent.com/7631629/116261338-d451a780-a777-11eb-82e0-5225c7b884ea.png)
+
+
