@@ -6,7 +6,7 @@ layout: home
 ---
 What is the Geodynamic World Builder?
 ====================================
-This c++ library (with wrappers for C and Fortran) allows you to easily set up
+This c++ library (with wrappers for C, Fortran and Python) allows you to easily set up
 models of intermediate complexity:
  ```js
 {
