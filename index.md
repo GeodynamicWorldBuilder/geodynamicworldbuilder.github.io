@@ -10,7 +10,7 @@ This c++ library (with wrappers for C, Fortran and Python) allows you to easily 
 models of intermediate complexity. This code is enough to generate the model in the pictures seen below:
  ```js
 {
-  "version":"0.3",
+  "version":"0.5",
   "cross section":[[0,200e3],[100e3,200e3]],
   "features":
   [
