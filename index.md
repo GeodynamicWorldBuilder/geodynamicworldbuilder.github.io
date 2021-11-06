@@ -21,7 +21,7 @@ models of intermediate complexity. This code is enough to generate the model in 
     {"model":"oceanic plate", "name":"Overriding plate", "max depth":100e3,
        "coordinates":[[0,0],[0,1000e3],[1500e3,1000e3],[1600e3,350e3],[1500e3,0]],
        "temperature models":[{"model":"plate model", "max depth":100e3, "spreading velocity":0.01,
-                              "ridge coordinates":[[400e3,-1],[-100e3,2000e3]]}],
+                              "ridge coordinates":[[[400e3,-1],[-100e3,2000e3]]]}],
        "composition models":[{"model":"uniform", "compositions":[0], "max depth":100e3}]},
 
     {"model":"oceanic plate", "name":"Atlantic Plate", "max depth":100e3,
